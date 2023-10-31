@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eroterry24
 - 👀 I’m interested in ...software development
 - 🌱 I’m currently learning ...software development
-- 💞️ I’m looking to collaborate on ...Kelechi
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
