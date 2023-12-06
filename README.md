@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eroterry24
-- 👀 I’m interested in ...software development
-- 🌱 I’m currently learning ...software development
+- 👀 I’m interested in ...Full Stack Web development
+- 🌱 I’m currently learning ...Full Stack Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
